@@ -25,7 +25,7 @@
             <!-- Contact -->
             <div class="col-md-12 col-lg-4">
                 <h4 class="text-white mb-3">Contact</h4>
-                <p><i class="fas fa-map-marker-alt me-2"></i> Abidjan, Angré 7e Tranche</p>
+                <p><i class="fas fa-map-marker-alt me-2"></i> Abidjan, Angré 7e Tranche a 100m du carrefour dans le sens terminus 81/82 Attoban</p>
                 <p><i class="fas fa-phone me-2"></i> +225 0153883433</p>
                 <p><i class="fas fa-envelope me-2"></i> info@autoecolegouri.ci</p>
                 <div class="d-flex mt-3">

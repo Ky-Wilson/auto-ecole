@@ -3,11 +3,14 @@
 
     <head>
         <meta charset="utf-8">
-        <title>{{ config('app.name', 'Auto ecole') }}</title>
-        <meta content="width=device-width, initial-scale=1.0" name="viewport">
-        <meta content="" name="keywords">
-        <meta content="" name="description">
-
+        <title>Gouri Auto-école | Formation de qualité pour tous les permis à Abidjan</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="keywords" content="auto-école, permis de conduire, Abidjan, formation conduite, permis moto, permis voiture, permis poids lourd, remise à niveau, Gouri Auto-école">
+        <meta name="description" content="Gouri Auto-école propose des formations complètes pour tous les types de permis (A, B, C, D, E) à Abidjan. Apprenez à conduire avec des moniteurs certifiés et un accompagnement personnalisé.">
+        <meta name="author" content="SoftSys">
+        <meta name="robots" content="index, follow">
+        <meta name="googlebot" content="index, follow">
+        <link rel="icon" type="image/png" href="{{ asset('assets/img/logo.png') }}">
         <!-- Google Web Fonts -->
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

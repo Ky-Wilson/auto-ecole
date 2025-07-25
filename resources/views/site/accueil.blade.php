@@ -141,62 +141,39 @@
 
         
 
-        <!-- Fact Counter -->
-        <div class="container-fluid counter bg-secondary py-5">
-            <div class="container py-5">
-                <div class="row g-5">
-                    <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.1s">
-                        <div class="counter-item text-center">
-                            <div class="counter-item-icon mx-auto">
-                                <i class="fas fa-thumbs-up fa-2x"></i>
-                            </div>
-                            <div class="counter-counting my-3">
-                                <span class="text-white fs-2 fw-bold" data-toggle="counter-up">1200</span>
-                                <span class="h1 fw-bold text-white">+</span>
-                            </div>
-                            <h4 class="text-white mb-0">Élèves satisfaits</h4>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.3s">
-                        <div class="counter-item text-center">
-                            <div class="counter-item-icon mx-auto">
-                                <i class="fas fa-car-alt fa-2x"></i>
-                            </div>
-                            <div class="counter-counting my-3">
-                                <span class="text-white fs-2 fw-bold" data-toggle="counter-up">20</span>
-                                <span class="h1 fw-bold text-white">+</span>
-                            </div>
-                            <h4 class="text-white mb-0">Véhicules de formation</h4>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.5s">
-                        <div class="counter-item text-center">
-                            <div class="counter-item-icon mx-auto">
-                                <i class="fas fa-building fa-2x"></i>
-                            </div>
-                            <div class="counter-counting my-3">
-                                <span class="text-white fs-2 fw-bold" data-toggle="counter-up">4</span>
-                                <span class="h1 fw-bold text-white">+</span>
-                            </div>
-                            <h4 class="text-white mb-0">Centres à Abidjan</h4>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.7s">
-                        <div class="counter-item text-center">
-                            <div class="counter-item-icon mx-auto">
-                                <i class="fas fa-clock fa-2x"></i>
-                            </div>
-                            <div class="counter-counting my-3">
-                                <span class="text-white fs-2 fw-bold" data-toggle="counter-up">100000</span>
-                                <span class="h1 fw-bold text-white">+</span>
-                            </div>
-                            <h4 class="text-white mb-0">Km parcourus en formation</h4>
-                        </div>
-                    </div>
+         <!-- Car categories End -->
+
+        <div class="container-fluid steps py-5">
+    <div class="container py-5">
+        <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 800px;">
+            <h1 class="display-5 text-capitalize text-white mb-3">Notre <span class="text-primary">Processus</span> Simplifié</h1>
+            <p class="mb-0 text-white">Suivez nos étapes simples pour obtenir votre permis de conduire en toute sérénité. Nous vous guidons à chaque phase du processus.</p>
+        </div>
+        <div class="row g-4">
+            <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="steps-item p-4 mb-4">
+                    <h4>Préparez Vos Dossiers</h4>
+                    <p class="mb-0">Fournissez les documents nécessaires : 01 photo d'identité couleur, et une pièce d'identification valide (CNI pour les nationaux ; Carte consulaire, carte de résident ou autre titre de séjour pour les non-nationaux).</p>
+                    <div class="setps-number">01.</div>
+                </div>
+            </div>
+            <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
+                <div class="steps-item p-4 mb-4">
+                    <h4>Effectuez Votre Visite Médicale</h4>
+                    <p class="mb-0">Après la préparation des dossiers, la visite médicale est une étape clé pour valider votre aptitude à la conduite.</p>
+                    <div class="setps-number">02.</div>
+                </div>
+            </div>
+            <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
+                <div class="steps-item p-4 mb-4">
+                    <h4>Obtenez Votre Permis Rapidement</h4>
+                    <p class="mb-0">Votre permis est disponible en un mois et demi après la visite médicale. Notre auto-école est la meilleure pour un permis sûr et rapide !</p>
+                    <div class="setps-number">03.</div>
                 </div>
             </div>
         </div>
-        <!-- Fact Counter -->
+    </div>
+        </div>
 
        
 
